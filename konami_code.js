@@ -12,4 +12,5 @@ const codes = [
 ];
 
 function init() {
+  alert(keydown1)
 }
