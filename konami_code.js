@@ -14,15 +14,15 @@ const codes = [
 function onKeyDownHandler(e) {
   const keyboardEvent = e.key ;
   //
-  if (keyboardEvent === codes[index]) {
+  if (keyboardEvent === codes[body]) {
     index++;
     if (index === codes.length) {
       alert("Hurray!");
       //
-      index = 0;
+      body = 0;
     }
     else {
-      index = 0;
+      body = 0;
     }
   }
 }
