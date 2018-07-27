@@ -29,3 +29,7 @@ function onKeyDownHandler(e) {
 //
 // function init() {
 // }
+//
+body.addEventListener('keydown', function(e) {
+  console.log(e.key)
+})
