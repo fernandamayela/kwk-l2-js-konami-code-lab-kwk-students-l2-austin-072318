@@ -11,3 +11,7 @@ const codes = [
   "a"
 ];
 //
+const html.querySelector()
+//
+function init() {
+}
