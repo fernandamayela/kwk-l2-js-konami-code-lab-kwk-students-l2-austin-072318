@@ -30,6 +30,8 @@ function onKeyDownHandler(e) {
 // function init() {
 // }
 //
+let document.querySelector("Body")
+//
 body.addEventListener('keydown', function(e) {
   console.log(e.key)
 })
