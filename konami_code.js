@@ -10,7 +10,8 @@ const codes = [
   "b",
   "a"
 ];
-
+//
+const body.query
+//
 function init() {
-  alert eventListener
 }
