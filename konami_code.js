@@ -12,5 +12,4 @@ const codes = [
 ];
 
 function init() {
-  // your code here
 }
