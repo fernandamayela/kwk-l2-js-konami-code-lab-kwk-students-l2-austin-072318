@@ -6,7 +6,9 @@ const codes = [
   "ArrowLeft",
   "ArrowRight",
   "ArrowLeft",
-  "ArrowRight"
+  "ArrowRight",
+  "b",
+  "a"
 ];
 //
 function onKeyDownHandler(e) {
