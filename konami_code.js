@@ -11,7 +11,7 @@ const codes = [
   "a"
 ];
 //
-const html.query
+const html.queryS
 //
 function init() {
 }
