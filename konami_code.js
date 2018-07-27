@@ -11,7 +11,7 @@ const codes = [
   "a"
 ];
 //
-const body.query
+const html.query
 //
 function init() {
 }
