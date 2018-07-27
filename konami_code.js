@@ -11,6 +11,5 @@ const codes = [
   "a"
 ];
 
-function init() {
-  alert(keydown1)
+function init() 
 }
