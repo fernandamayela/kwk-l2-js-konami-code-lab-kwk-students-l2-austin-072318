@@ -22,6 +22,9 @@ function onKeyDownHandler(e) {
       //
       index = 0;
     }
+    else {
+      index = 0;
+    }
 }
 //
 // function init() {
