@@ -12,9 +12,9 @@ const codes = [
 ];
 //
 function onKeyDownHandler(e) {
-  const key = e.key ;
+  const keydown = e.key ;
   //
-  if (key === codes[index]) {
+  if (keydown === codes[index]) {
     index++;
     if (index === codes.length) {
       alert("Hurray!");
